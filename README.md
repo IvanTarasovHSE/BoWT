@@ -1,3 +1,3 @@
 # BoWT
 
-https://github.com/IvanTarasovHSE/BoWT/blob/main/Images.html
+https://github.io/IvanTarasovHSE/BoWT/Images.html
