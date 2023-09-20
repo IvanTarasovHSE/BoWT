@@ -1,2 +1,2 @@
 # BoWT
-https://github.com/IvanTarasovHSE/BoWT/Images.html
+https://github.io/IvanTarasovHSE/BoWT/Images.html
